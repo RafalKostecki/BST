@@ -93,4 +93,4 @@ class BST {
 
 }
 
-let myBST = new BST;
+const myBST = new BST;
